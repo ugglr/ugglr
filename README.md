@@ -6,6 +6,7 @@
 
 - 🧑‍💻 Distrupting the real estate market in a startup called [Norban](https://norban.se).
 - 🤓 Building [brewtime.app](https://brewtime.app) soon in a store near you.
+- ✍️ I write tech posts @ [DEV.to/ugglr](https://dev.to/ugglr)
 - 📸 I take photos [@hangzhouist](https://www.instagram.com/hangzhouist/) 
 - 👨‍👩‍👦 Family man.
 
