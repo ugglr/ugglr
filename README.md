@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ugglr/ugglr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Fullstack Developer working from Hangzhou, China.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Distrupting the real estate market in a startup called [Norban](https://norban.se).
+- 🤓 Building [brewtime.app](https://brewtime.app) soon in a store near you.
+- 👨‍👩‍👦 Family man.
+- 📸 I take photos [@hangzhouist](https://www.instagram.com/hangzhouist/) 
+
+##### BIO
+
+- 🏢 Swedish nomatic engineer 👉 [carlw.se](https://www.carlw.se) 👈
+- 👔 Previously: small robotics Startup, big Surveillance corp. 
+- ⚙️ I used to work in Javascript, now I work mostly with Typescript.
+- 📫 Reach me: [twitter.com/ugglr_dev](https://twitter.com/ugglr_dev)
