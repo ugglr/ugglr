@@ -4,10 +4,10 @@
 
 ##### NOW
 
-- 🧑‍💻 Fullstack @[Norban](https://norban.se).
-- 🤓 Building @[brewtime.app](https://brewtime.app).
-- ✍️ Tech posts @[DEV.to/ugglr](https://dev.to/ugglr)
-- 📸 Photos @[@hangzhouist](https://www.instagram.com/hangzhouist/) 
+- 🧑‍💻 Fullstack 👉 [Norban](https://norban.se).
+- ☕️ Side project 👉 [brewtime.app](https://brewtime.app).
+- ✍️ Tech posts 👉 [DEV.to/ugglr](https://dev.to/ugglr)
+- 📸 Photo hobby 👉 [@hangzhouist](https://www.instagram.com/hangzhouist/) 
 - 👨‍👩‍👦 Family man.
 
 ##### BIO
