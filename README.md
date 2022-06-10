@@ -17,7 +17,7 @@
 
 ##### BIO
 
-- 🏢 Swedish nomatic engineer 👉 [carlw.se](https://www.carlw.se) 👈
+- 🇸🇪 nomatic engineer 👉 [carlw.se](https://www.carlw.se) 👈
 - 👔 Previously: Travel, robotics, surveillance hardware. 
 - ⚙️ I used to work in Javascript, now I work mostly with Typescript.
 - 📫 Reach me: [twitter.com/ugglr_dev](https://twitter.com/ugglr_dev)
